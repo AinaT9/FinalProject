@@ -32,3 +32,6 @@ This project addresses tasks related to 3D medical imaging and analysis using DI
         - Sagittal/  Contains projections and rotating MIP of the Sagittal Plane.
 
 ## Objectives Completed
+-   OBJECTIVE 1 -> Completed
+-   OBJECTIVE 2 -> In Progress
+-   OBJECTIVE 3 -> TO DO
