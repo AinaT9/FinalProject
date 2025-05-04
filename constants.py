@@ -1,0 +1,8 @@
+import os
+
+DATASET = os.getcwd()+'/RadCTTACEomics_2183'
+REFERENCE_IMAGE = DATASET + '/30_EQP_Ax5.00mm/'
+INPUT_IMAGE = DATASET + '/10_AP_Ax5.00mm/'
+
+LIVER_SEGMENTATION = DATASET + '/30_EQP_Ax5.00mm_ManualROI_Liver.dcm'
+TUMOR_SEGMENTATION = DATASET + '/30_EQP_Ax5.00mm_ManualROI_Tumor.dcm'
