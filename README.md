@@ -30,8 +30,9 @@ This project addresses tasks related to 3D medical imaging and analysis using DI
         - AlphaSagittal/  Contains projections and rotating MIP of the Sagittal Plane with the masks.
         - Coronal/  Contains projections and rotating MIP of the Coronal Plane.
         - Sagittal/  Contains projections and rotating MIP of the Sagittal Plane.
+- gif_frames/ Contain the gif related to the segmentation
 
 ## Objectives Completed
 -   OBJECTIVE 1 -> Completed
--   OBJECTIVE 2 -> In Progress
--   OBJECTIVE 3 -> TO DO
+-   OBJECTIVE 2 -> Almost done
+-   OBJECTIVE 3 -> Completed
